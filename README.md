@@ -30,3 +30,6 @@ latter is especially useful for looking for seasonal variations in price and
 volume (another arbitrage opportunity, albeit with more risk depending on the
 holding time) and for building new models that use NLP and/or image recognition
 to better classify products.
+
+## Visualization
+https://public.tableau.com/profile/lucas.aleck#!/vizhome/MP2_15625587782040/Dashboard?publish=yes
